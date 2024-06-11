@@ -15,4 +15,4 @@ npm run serve
 npm run build
 ```
 
-![Please view](mind_map_image.png)
+![Please view](mind_map_image.png)# demo
