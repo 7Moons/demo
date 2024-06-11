@@ -1,5 +1,3 @@
-# antd-admin-pro
-
 ## Project setup
 ```
 npm install
